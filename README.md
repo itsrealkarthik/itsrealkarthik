@@ -1,6 +1,6 @@
 # AboutMe
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&center=true&vCenter=true&multiline=true&height=90&lines=COMPUTER+SCIENCE+STUDENT;AT;VELLORE+INSTITUTE+OF+TECHNOLOGY">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=6000&color=F7F7F7&background=050208&center=true&vCenter=true&multiline=true&height=100&lines=COMPUTER+SCIENCE+STUDENT;AT;VELLORE+INSTITUTE+OF+TECHNOLOGY">
 </p><br>
 
 # 💻 Tech Stack:
