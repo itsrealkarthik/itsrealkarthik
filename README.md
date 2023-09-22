@@ -8,7 +8,8 @@
 # <p align="center">Statistics</p>
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsrealkarthik&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrealkarthik&theme=dark" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=itsrealkarthik&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrealkarthik&layout=compact&theme=gotham" alt="github stats" width="35%" align="right"/>
+
 </p><br>
 
